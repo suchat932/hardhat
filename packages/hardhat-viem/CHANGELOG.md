@@ -1,5 +1,15 @@
 # @nomicfoundation/hardhat-viem
 
+## 2.0.2
+
+### Patch Changes
+
+- ccb0ace: Added support for library linking (thanks @Chlebamaticon!)
+- Updated dependencies [22bcbf5]
+- Updated dependencies [2c533f0]
+- Updated dependencies [6447e80]
+  - hardhat@2.23.0
+
 ## 2.0.1
 
 ### Patch Changes
