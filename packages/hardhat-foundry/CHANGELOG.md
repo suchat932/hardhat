@@ -1,5 +1,15 @@
 # @nomicfoundation/hardhat-foundry
 
+## 1.1.2
+
+### Patch Changes
+
+- a93e240: Use absolute rather than relative path when overriding sources configuration
+- Updated dependencies [22bcbf5]
+- Updated dependencies [2c533f0]
+- Updated dependencies [6447e80]
+  - hardhat@2.23.0
+
 ## 1.1.1
 
 ### Patch Changes

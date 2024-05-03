@@ -1,5 +1,16 @@
 # hardhat
 
+## 2.23.0
+
+### Minor Changes
+
+- 22bcbf5: Added BigInt task argument type
+
+### Patch Changes
+
+- 2c533f0: Bumped EDR dependency to 0.3.7
+- 6447e80: Improved performance by reducing back-and-forth with EDR when it's not necessary
+
 ## 2.22.3
 
 ### Patch Changes
